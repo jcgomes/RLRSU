@@ -1,2 +1,6 @@
-# RLRSU -Recuperação de Lixões de Resíduos Sólidos Urbanos
-Instalação para Windows: https://github.com/jcgomes/RLRSU/raw/master/RLRSU_v1_Windows.exe
+# O RLRSU mudou para ReLix
+
+[CLIQUE AQUI PARA ACESSAR O SOFTWARE ](https://github.com/jcgomes/ReLix/)
+
+Cordialmente,
+Juliano C. Gomes
